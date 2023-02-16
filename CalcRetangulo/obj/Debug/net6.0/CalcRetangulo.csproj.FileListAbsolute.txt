@@ -1,0 +1,15 @@
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.csproj.AssemblyReference.cache
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.AssemblyInfoInputs.cache
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.AssemblyInfo.cs
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\bin\Debug\net6.0\CalcRetangulo.exe
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\bin\Debug\net6.0\CalcRetangulo.deps.json
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\bin\Debug\net6.0\CalcRetangulo.runtimeconfig.json
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\bin\Debug\net6.0\CalcRetangulo.dll
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\bin\Debug\net6.0\CalcRetangulo.pdb
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.dll
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\refint\CalcRetangulo.dll
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.pdb
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\CalcRetangulo.genruntimeconfig.cache
+C:\Users\escrit0601\Desktop\Diversos\CursoC#\CalcRetangulo\CalcRetangulo\obj\Debug\net6.0\ref\CalcRetangulo.dll
